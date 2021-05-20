@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1000BE3B26572CF00094011F /* DatabaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1000BE3A26572CF00094011F /* DatabaseManager.swift */; };
 		10D571812655D94800329640 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 10D571802655D94800329640 /* GoogleService-Info.plist */; };
 		10EF05F6265483870048E1CF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EF05F5265483870048E1CF /* AppDelegate.swift */; };
 		10EF05F8265483870048E1CF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EF05F7265483870048E1CF /* SceneDelegate.swift */; };
@@ -32,6 +33,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1000BE3A26572CF00094011F /* DatabaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseManager.swift; sourceTree = "<group>"; };
 		10D571802655D94800329640 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		10EF05F2265483870048E1CF /* InstagramApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstagramApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10EF05F5265483870048E1CF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -148,6 +150,7 @@
 				10D571802655D94800329640 /* GoogleService-Info.plist */,
 				10EF05F5265483870048E1CF /* AppDelegate.swift */,
 				10EF05F7265483870048E1CF /* SceneDelegate.swift */,
+				1000BE3A26572CF00094011F /* DatabaseManager.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -353,6 +356,7 @@
 				10EF061C265488BA0048E1CF /* RegistrationViewController.swift in Sources */,
 				10EF062A265489F00048E1CF /* PostEditorViewController.swift in Sources */,
 				10EF061E265488F40048E1CF /* PostViewController.swift in Sources */,
+				1000BE3B26572CF00094011F /* DatabaseManager.swift in Sources */,
 				10EF0613265487AA0048E1CF /* NotificationsViewController.swift in Sources */,
 				10EF0628265489A90048E1CF /* SearchResultViewController.swift in Sources */,
 				10EF061A2654889A0048E1CF /* LoginViewController.swift in Sources */,
